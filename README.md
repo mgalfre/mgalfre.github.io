@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @mgalfre
+- 👀 I’m interested in Machine Learning, Computer Vision
+- 🌱 I’m currently finishing my Master Degree in Data Science and Business Analytics
+- 📫 How to reach me
